@@ -2,12 +2,14 @@
 
 one:
   name: MyString
+  author: MyString
   description: MyText
   price: 1
   availability: false
 
 two:
   name: MyString
+  author: MyString
   description: MyText
   price: 1
   availability: false
