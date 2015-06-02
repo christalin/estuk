@@ -63,3 +63,16 @@ gem 'stripe'
 
 gem 'aasm'
 
+group :development do 
+	gem 'spring'
+	gem 'sqlite3'
+	gem 'dotenv-rails'
+end
+
+group :production do
+    gem 'rails_12factor'
+    'pg'
+end
+
+    	
+
